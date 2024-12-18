@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Faaeq Fazal
 - 👀 I’m interested in contributing with tech base projects
-- 🌱 I’m currently learning Angular, SpringBoot
+- 🌱 I’m currently learning React, SpringBoot, Node.js with Express
 - 💞️ I’m looking to collaborate on Artificial Intelligence with Medical Science
 - 📫 How to reach me mdhfaaeq@gmail.com
 - 😄 Pronouns: he/him
