@@ -2,7 +2,7 @@
 - 👀 I’m interested in contributing with tech base projects
 - 🌱 I’m currently learning React, SpringBoot, Node.js with Express
 - 💞️ I’m looking to collaborate on Artificial Intelligence with Medical Science
-- 📫 How to reach me mdhfaaeq@gmail.com
+- 📫 How to reach me faaeqavl@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: When I'm not coding, I enjoy experimenting with machine learning models to predict movie plot twists—because who doesn’t love a good challenge?
       I’m also a huge fan of tea and believe it fuels my creativity (and the code)! ☕🚀
