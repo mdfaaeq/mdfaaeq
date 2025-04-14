@@ -2,9 +2,9 @@
 
 🎓 I'm an undergraduate passionate about leveraging **AI** and **software engineering** to revolutionize **medical science** and solve real-world problems.  
 💻 Currently working on:  
-- 📚 A RESTful Bookstore API using **JAX-RS**, **JSON**, and **Postman**  
+- 📚 PageTurn Nexus: A RESTful Bookstore API using **JAX-RS**, **JSON**, and **Postman**  
 - 🧠 Sched-Ease: A smart scheduling system built with **Spring Boot** & **React**  
-- 🎟️ Real-time ticketing system with **multithreading & synchronization**  
+- 🎟️ SwiftTix: Real-time ticketing system with **multithreading & synchronization**  
 
 ---
 
