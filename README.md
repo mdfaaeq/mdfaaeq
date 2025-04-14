@@ -55,7 +55,7 @@ I’m also a **huge fan of tea** and believe it fuels my creativity (and the cod
 
 ---
 
-_“Code is not just instructions for a machine — it’s a story we write for the future.”_
+_“Every line of code I write today builds the bridge to my future, Its a reminder that the work I am doing now no matter how small, has a big impact down the road.”_
 
 <!---
 mdfaaeq/mdfaaeq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
