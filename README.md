@@ -40,8 +40,8 @@
 ## 🧠 Projects
 
 - 🗓 **Sched-Ease** — Smart scheduling & session management for university groups  
-- 📘 **Bookstore API** — RESTful API with CRUD operations in pure JAX-RS  
-- 🎫 **Real-Time Ticketing System** — Handles vendor-customer sync using multithreading  
+- 📘 **PageTurn Nexus** — RESTful API with CRUD operations in pure JAX-RS  
+- 🎫 **SwiftTix** — Handles vendor-customer sync using multithreading  
 - 💡 **Hult Prize Submission** — Startup idea promoting sustainable tech (with Lakindu, Cheran & Thishakya)
 
 > 🌟 Visit pinned repositories for more cool stuff!
