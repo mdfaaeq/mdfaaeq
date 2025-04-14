@@ -43,8 +43,8 @@
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-📧 [youremail@example.com](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faaeq-fazal/)  
+📧 [falfaaeq@gmail.com](mailto:falfaaeq@gmail.com)
 
 ---
 
