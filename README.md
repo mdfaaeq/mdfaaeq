@@ -55,11 +55,4 @@
 
 ---
 
-## ⚡ Fun Fact
-
-When I'm not coding, I enjoy experimenting with **machine learning models** to predict movie plot twists—because who doesn’t love a good challenge?  
-I’m also a **huge fan of tea** and believe it fuels my creativity (and the code)! ☕🚀
-
----
-
 _“Every line of code I write today builds the bridge to my future. It's a reminder that the work I am doing now—no matter how small—has a big impact down the road.”_
