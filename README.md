@@ -51,7 +51,7 @@
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faaeq-fazal/)  
-📧 [falfaaeq@gmail.com](mailto:falfaaeq@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:falfaaeq@gmail.com)
 
 ---
 
