@@ -1,6 +1,6 @@
 > _“Every line of code I write today builds the bridge to my future. It's a reminder that the work I am doing now—no matter how small—has a big impact down the road.”_
 
-# Hi there 👋, I'm Faaeq Fazal
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi there, I'm Faaeq Fazal
 
 🎓 I'm an undergraduate passionate about leveraging **AI** and **software engineering** to revolutionize **medical science** and solve real-world problems.  
 💻 Currently working on:  
@@ -41,6 +41,13 @@
 
 ---
 
+## 📚 Currently Learning
+
+- ASP.NET Core MVC (.NET 9)  
+- Software Architecture Patterns  
+
+---
+
 ## 🧠 Projects
 
 - 🗓 **Sched-Ease** — Smart scheduling & session management for university groups  
@@ -49,6 +56,13 @@
 - 💡 **Hult Prize Submission** — Startup idea promoting sustainable tech (with Lakindu, Cheran & Thishakya)
 
 > 🌟 Visit pinned repositories for more cool stuff!
+
+---
+
+## 📈 GitHub Stats
+
+![Faaeq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdfaaeq&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfaaeq&layout=compact&theme=radical)
 
 ---
 
