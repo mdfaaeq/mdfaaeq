@@ -44,7 +44,7 @@
 ## 📚 Currently Learning
 
 - ASP.NET Core MVC (.NET 9)  
-- Software Architecture Patterns  
+- Software Architecture Patterns 
 
 ---
 
@@ -61,8 +61,16 @@
 
 ## 📈 GitHub Stats
 
-![Faaeq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdfaaeq&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfaaeq&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mdfaaeq&show_icons=true&theme=radical" alt="Faaeq's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdfaaeq&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
