@@ -1,3 +1,5 @@
+> _“Every line of code I write today builds the bridge to my future. It's a reminder that the work I am doing now—no matter how small—has a big impact down the road.”_
+
 # Hi there 👋, I'm Faaeq Fazal
 
 🎓 I'm an undergraduate passionate about leveraging **AI** and **software engineering** to revolutionize **medical science** and solve real-world problems.  
@@ -21,6 +23,7 @@
 
 **Frameworks & Tools:**  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -51,9 +54,4 @@
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faaeq-fazal/)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:falfaaeq@gmail.com)
-
----
-
-_“Every line of code I write today builds the bridge to my future. It's a reminder that the work I am doing now—no matter how small—has a big impact down the road.”_
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faaeq-fazal/) [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:falfaaeq@gmail.com)
