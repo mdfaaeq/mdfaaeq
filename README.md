@@ -44,7 +44,6 @@
 ## 📚 Currently Learning
 
 - ASP.NET Core MVC (.NET 9)  
-- Software Architecture Patterns 
 
 ---
 
