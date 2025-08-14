@@ -44,7 +44,7 @@
 
 ## 📚 Currently Learning
 
-- ASP.NET Core MVC (.NET 9)  
+- ASP.NET Core MVC (.NET 9)  -> EmpTrackPro Example
 
 ---
 
