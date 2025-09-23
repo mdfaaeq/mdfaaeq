@@ -64,10 +64,16 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mdfaaeq&show_icons=true&theme=radical" alt="Faaeq's GitHub Stats" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=mdfaaeq&show_icons=true&theme=radical&cache_seconds=1800&timestamp=1695480000" 
+        alt="Faaeq's GitHub Stats" 
+      />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdfaaeq&layout=compact&theme=radical" alt="Top Languages" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdfaaeq&layout=compact&theme=radical&cache_seconds=1800&timestamp=1695480000" 
+        alt="Top Languages" 
+      />
     </td>
   </tr>
 </table>
