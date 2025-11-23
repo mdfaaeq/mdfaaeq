@@ -53,15 +53,6 @@ Spring Boot • .NET • React • Supabase • PostgreSQL
 Postman • GitHub • Figma • Canva • Microsoft SQL Server
 ```
 
-### 🧠 Core Competencies
-```
-• Object-Oriented Programming (OOP)
-• Data Structures (Arrays, Linked Lists, Stacks, Queues)
-• REST API Development
-• Version Control (Git, GitHub)
-• Agile Development Methodologies
-```
-
 ---
 
 ## 🚀 Featured Projects
