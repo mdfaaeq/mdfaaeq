@@ -138,8 +138,6 @@ const faaeq = {
 
 </div>
 
----
-
 <div align="center">
 
 <picture>
