@@ -84,18 +84,9 @@ Pure JAX-RS implementation with comprehensive CRUD operations, demonstrating cle
 
 </td>
 </tr>
-<tr>
-<td width="50%">
+</table>
 
-### 🎫 SwiftTix
-**Real-Time Ticketing System**
-
-High-performance ticketing platform handling vendor-customer synchronization using advanced multithreading.
-
-**Stack:** Java • Multithreading • Synchronization
-
-</td>
-<td width="50%">
+---
 
 ### 💡 Hult Prize Submission
 **Sustainable Tech Initiative**
@@ -104,17 +95,12 @@ Startup concept promoting sustainable technology solutions (Collaborative projec
 
 **Focus:** Social Impact • Sustainability
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🎯 Current Focus
 
 ```javascript
 const faaeq = {
-    learning: ["ASP.NET Core MVC", ".NET 9", "Advanced System Design"],
     interests: ["AI in Healthcare", "Distributed Systems", "Cloud Architecture"],
     goals: ["Master Full-Stack Development", "Contribute to Open Source", "Build AI-Powered Healthcare Solutions"],
     funFact: "I believe every bug is just a feature waiting to be discovered! 🐛✨"
