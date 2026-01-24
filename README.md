@@ -88,7 +88,7 @@ Pure JAX-RS implementation with comprehensive CRUD operations, demonstrating cle
 
 ---
 
-### 💡 Hult Prize Submission
+## 💡 Hult Prize Submission
 **Sustainable Tech Initiative**
 
 Startup concept promoting sustainable technology solutions (Collaborative project with Lakindu, Cheran & Thishakya).
