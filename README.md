@@ -25,30 +25,18 @@
 ---
 
 ## 🧬 About Me
-
-I’m a software engineer with a strong interest in artificial intelligence and its applications in healthcare. I enjoy learning by building real-world systems, experimenting with new technologies, and continuously pushing my technical limits.
-
-Most of my learning happens through hands-on projects—designing APIs, working with concurrent systems, and building full-stack applications that solve practical problems.
+I’m a software engineer passionate about artificial intelligence and its applications in healthcare. I enjoy learning by building real-world systems, experimenting with new technologies, and pushing my technical limits.
 
 ---
 
 ## 🚀 Completed Projects
 
-### 📚 PageTurn Nexus
-- RESTful Bookstore API  
-- Built using **JAX-RS**, **JSON**, and **Postman**
-
-### 🧠 Sched-Ease
-- Smart scheduling system  
-- Developed with **Spring Boot** and **React**
-
-### 🎟️ SwiftTix
-- Real-time ticketing system  
-- Implemented **multithreading** and **synchronization**
-
-### 👔 EmpTrackPro
-- Employee management system  
-- Built while learning **ASP.NET Core MVC (.NET 9)**
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 📚 **PageTurn Nexus** | RESTful Bookstore API | JAX-RS, JSON, Postman |
+| 🧠 **Sched-Ease** | Smart scheduling system | Spring Boot, React |
+| 🎟️ **SwiftTix** | Real-time ticketing system with multithreading | Java, Multithreading, Synchronization |
+| 👔 **EmpTrackPro** | Employee management system | ASP.NET Core MVC (.NET 9) |
 
 ---
 
