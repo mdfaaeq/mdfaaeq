@@ -26,13 +26,29 @@
 
 ## 🧬 About Me
 
-I'm a passionate software engineer with a deep interest in artificial intelligence and its applications in healthcare. My journey combines rigorous academic learning with hands-on project development, always pushing the boundaries of what's possible with code.
+I’m a software engineer with a strong interest in artificial intelligence and its applications in healthcare. I enjoy learning by building real-world systems, experimenting with new technologies, and continuously pushing my technical limits.
 
-**Currently Building:**
-- 📚 **PageTurn Nexus** → RESTful Bookstore API using JAX-RS, JSON, and Postman
-- 🧠 **Sched-Ease** → Smart scheduling system built with Spring Boot & React
-- 🎟️ **SwiftTix** → Real-time ticketing system with multithreading & synchronization
-- 👔 **EmpTrackPro** → Learning ASP.NET Core MVC (.NET 9) through hands-on development
+Most of my learning happens through hands-on projects—designing APIs, working with concurrent systems, and building full-stack applications that solve practical problems.
+
+---
+
+## 🚀 Completed Projects
+
+### 📚 PageTurn Nexus
+- RESTful Bookstore API  
+- Built using **JAX-RS**, **JSON**, and **Postman**
+
+### 🧠 Sched-Ease
+- Smart scheduling system  
+- Developed with **Spring Boot** and **React**
+
+### 🎟️ SwiftTix
+- Real-time ticketing system  
+- Implemented **multithreading** and **synchronization**
+
+### 👔 EmpTrackPro
+- Employee management system  
+- Built while learning **ASP.NET Core MVC (.NET 9)**
 
 ---
 
@@ -124,8 +140,7 @@ const faaeq = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faaeq-fazal/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sgfaaeq@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdfaaeq)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faaeqfzl5@gmail.com)
 
 </div>
 
