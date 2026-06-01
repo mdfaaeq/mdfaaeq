@@ -201,7 +201,7 @@ E-commerce frontend with responsive UI/UX design and a clean, user-friendly shop
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230c1526.svg?style=for-the-badge&logo=vercel&logoColor=60a5fa)](https://faaeq-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faaeq-fazal/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faaeqfzl5@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdfaaeqfzl@gmail.com)
 
 <br/>
 
