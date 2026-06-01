@@ -191,7 +191,7 @@ E-commerce frontend with responsive UI/UX design and a clean, user-friendly shop
 | | Achievement | Organization | Year |
 |---|---|---|---|
 | 🥇 | **Hult Prize Competitor** — OnCampus Program | Informatics Institute of Technology | 2025 |
-| 🔐 | **SDGP-Connect Auth Contributor** — Implemented Asgardeo email & password login · [View Repo](https://github.com/mdfaaeq/SDGP-Connect) | IIT-SDGP / GitHub | 2025 |
+| 🔐 | **SDGP-Connect Auth Contributor** — Implemented Asgardeo email & password login · [View Repo](https://github.com/mdfaaeq/SDGP-Connect) | IIT-SDGP / GitHub | 2026 |
 
 ---
 
