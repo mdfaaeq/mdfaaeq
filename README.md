@@ -20,6 +20,10 @@
 > 
 > *It's a reminder that the work I'm doing now, no matter how small, has a big impact down the road!*
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/mdfaaeq/mdfaaeq/main/assets/profile-card.svg" width="100%" />
+
 </div>
 
 ---

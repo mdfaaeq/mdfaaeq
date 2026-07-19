@@ -1,0 +1,78 @@
+<svg width="800" height="240" viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#03070f"/>
+      <stop offset="45%" stop-color="#0c1526"/>
+      <stop offset="100%" stop-color="#132a5e"/>
+    </linearGradient>
+    <linearGradient id="scanGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#60a5fa" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#60a5fa" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#60a5fa" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="photoClip">
+      <rect x="558" y="60" width="222" height="160" rx="8"/>
+    </clipPath>
+    <pattern id="scanlines" width="8" height="3" patternUnits="userSpaceOnUse">
+      <rect width="8" height="1.2" fill="#60a5fa" opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <rect width="800" height="240" fill="#03070f"/>
+  <rect x="10" y="10" width="780" height="220" rx="10" fill="url(#bg)" stroke="#1e3a8a" stroke-width="1.2"/>
+
+  <circle cx="32" cy="30" r="4.5" fill="#f87171"/>
+  <circle cx="48" cy="30" r="4.5" fill="#fbbf24"/>
+  <circle cx="64" cy="30" r="4.5" fill="#4ade80"/>
+  <text x="758" y="34" font-family="monospace" font-size="11" fill="#3b82f6" text-anchor="end">faaeq@dev ~ %</text>
+
+  <!-- left info panel -->
+  <rect x="20" y="52" width="520" height="168" rx="8" fill="none" stroke="#1e3a8a" stroke-opacity="0.6" stroke-width="1"/>
+
+  <!-- row separators -->
+  <line x1="20" y1="86" x2="540" y2="86" stroke="#1e3a8a" stroke-opacity="0.4"/>
+  <line x1="20" y1="120" x2="540" y2="120" stroke="#1e3a8a" stroke-opacity="0.4"/>
+  <line x1="20" y1="154" x2="540" y2="154" stroke="#1e3a8a" stroke-opacity="0.4"/>
+  <line x1="20" y1="188" x2="540" y2="188" stroke="#1e3a8a" stroke-opacity="0.4"/>
+
+  <!-- row 1: Uni -->
+  <text x="34" y="74" font-family="monospace" font-size="12" fill="#5f7aa8">Uni</text>
+  <text x="106" y="74" font-family="monospace" font-size="11" fill="#93c5fd">|</text>
+  <text x="126" y="74" font-family="monospace" font-size="12.5" fill="#dbeafe">University of Westminster</text>
+
+  <!-- row 2: Focus -->
+  <text x="34" y="108" font-family="monospace" font-size="12" fill="#5f7aa8">Focus</text>
+  <text x="106" y="108" font-family="monospace" font-size="11" fill="#93c5fd">|</text>
+  <text x="126" y="108" font-family="monospace" font-size="12.5" fill="#dbeafe">Full Stack + AI/ML</text>
+
+  <!-- row 3: Currently -->
+  <text x="34" y="142" font-family="monospace" font-size="12" fill="#5f7aa8">Currently</text>
+  <text x="106" y="142" font-family="monospace" font-size="11" fill="#93c5fd">|</text>
+  <text x="126" y="142" font-family="monospace" font-size="12.5" fill="#dbeafe">Exploring smarter, more capable systems</text>
+
+  <!-- row 4: Toolbox -->
+  <text x="34" y="176" font-family="monospace" font-size="12" fill="#5f7aa8">Toolbox</text>
+  <text x="106" y="176" font-family="monospace" font-size="11" fill="#93c5fd">|</text>
+  <text x="126" y="176" font-family="monospace" font-size="12.5" fill="#dbeafe">React · Next.js · .NET · Spring Boot · Python</text>
+
+  <!-- row 5: Status -->
+  <text x="34" y="209" font-family="monospace" font-size="12" fill="#5f7aa8">Status</text>
+  <text x="106" y="209" font-family="monospace" font-size="11" fill="#93c5fd">|</text>
+  <text x="126" y="209" font-family="monospace" font-size="12.5" fill="#4ade80">available for opportunities</text>
+
+  <!-- right photo panel -->
+  <rect x="558" y="60" width="222" height="160" rx="8" fill="#060b14" stroke="#1e3a8a" stroke-opacity="0.6" stroke-width="1"/>
+
+  <g clip-path="url(#photoClip)">
+    <image href="https://avatars.githubusercontent.com/u/187956147?v=4" x="558" y="60" width="222" height="160" preserveAspectRatio="xMidYMid slice"/>
+    <rect x="558" y="60" width="222" height="160" fill="url(#scanlines)"/>
+    <rect x="558" y="-40" width="222" height="36" fill="url(#scanGrad)">
+      <animate attributeName="y" values="60;180;60" dur="2.6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <line x1="20" y1="228" x2="780" y2="228" stroke="#1e3a8a" stroke-opacity="0.35"/>
+  <text x="34" y="222" font-family="monospace" font-size="11" fill="#5f7aa8"> </text>
+  <text x="20" y="235" font-family="monospace" font-size="11" fill="#5f7aa8">scanning github.com/mdfaaeq...</text>
+  <text x="766" y="235" font-family="monospace" font-size="11" fill="#4ade80" text-anchor="end">● live</text>
+</svg>
