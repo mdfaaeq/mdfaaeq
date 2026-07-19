@@ -5,17 +5,6 @@
       <stop offset="45%" stop-color="#0c1526"/>
       <stop offset="100%" stop-color="#132a5e"/>
     </linearGradient>
-    <linearGradient id="scanGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#60a5fa" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#60a5fa" stop-opacity="0.85"/>
-      <stop offset="100%" stop-color="#60a5fa" stop-opacity="0"/>
-    </linearGradient>
-    <clipPath id="photoClip">
-      <rect x="558" y="52" width="222" height="136" rx="8"/>
-    </clipPath>
-    <pattern id="scanlines" width="8" height="3" patternUnits="userSpaceOnUse">
-      <rect width="8" height="1.2" fill="#60a5fa" opacity="0.08"/>
-    </pattern>
   </defs>
 
   <rect width="800" height="510" fill="#03070f"/>
@@ -26,12 +15,12 @@
   <circle cx="64" cy="30" r="4.5" fill="#4ade80"/>
   <text x="758" y="34" font-family="monospace" font-size="11" fill="#3b82f6" text-anchor="end">faaeq@dev ~ %</text>
 
-  <!-- top-left info panel: y 52 to 188 -->
-  <rect x="20" y="52" width="520" height="136" rx="8" fill="none" stroke="#1e3a8a" stroke-opacity="0.6" stroke-width="1"/>
+  <!-- full-width info panel: y 52 to 188 -->
+  <rect x="20" y="52" width="760" height="136" rx="8" fill="none" stroke="#1e3a8a" stroke-opacity="0.6" stroke-width="1"/>
 
-  <line x1="20" y1="86" x2="540" y2="86" stroke="#1e3a8a" stroke-opacity="0.4"/>
-  <line x1="20" y1="120" x2="540" y2="120" stroke="#1e3a8a" stroke-opacity="0.4"/>
-  <line x1="20" y1="154" x2="540" y2="154" stroke="#1e3a8a" stroke-opacity="0.4"/>
+  <line x1="20" y1="86" x2="780" y2="86" stroke="#1e3a8a" stroke-opacity="0.4"/>
+  <line x1="20" y1="120" x2="780" y2="120" stroke="#1e3a8a" stroke-opacity="0.4"/>
+  <line x1="20" y1="154" x2="780" y2="154" stroke="#1e3a8a" stroke-opacity="0.4"/>
 
   <text x="34" y="74" font-family="monospace" font-size="12" fill="#5f7aa8">Name</text>
   <text x="106" y="74" font-family="monospace" font-size="11" fill="#93c5fd">|</text>
@@ -48,17 +37,6 @@
   <text x="34" y="176" font-family="monospace" font-size="12" fill="#5f7aa8">Currently</text>
   <text x="106" y="176" font-family="monospace" font-size="11" fill="#93c5fd">|</text>
   <text x="126" y="176" font-family="monospace" font-size="12.5" fill="#dbeafe">Exploring smarter, more capable systems</text>
-
-  <!-- right photo panel: y 52 to 188, same as left panel -->
-  <rect x="558" y="52" width="222" height="136" rx="8" fill="#060b14" stroke="#1e3a8a" stroke-opacity="0.6" stroke-width="1"/>
-
-  <g clip-path="url(#photoClip)">
-    <image href="https://avatars.githubusercontent.com/u/187956147?v=4&amp;s=440" x="558" y="52" width="222" height="136" preserveAspectRatio="xMidYMid slice"/>
-    <rect x="558" y="52" width="222" height="136" fill="url(#scanlines)"/>
-    <rect x="558" y="16" width="222" height="36" fill="url(#scanGrad)">
-      <animate attributeName="y" values="16;152;16" dur="2.6s" repeatCount="indefinite"/>
-    </rect>
-  </g>
 
   <!-- quote section: y 204 to 260 -->
   <text x="400" y="228" font-family="monospace" font-style="italic" font-size="12.5" fill="#93c5fd" text-anchor="middle">"Every line of code I write today builds the bridge to my future."</text>
