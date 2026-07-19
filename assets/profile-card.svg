@@ -1,4 +1,4 @@
-<svg width="800" height="440" viewBox="0 0 800 440" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="470" viewBox="0 0 800 470" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#03070f"/>
@@ -11,22 +11,22 @@
       <stop offset="100%" stop-color="#60a5fa" stop-opacity="0"/>
     </linearGradient>
     <clipPath id="photoClip">
-      <rect x="558" y="60" width="222" height="200" rx="8"/>
+      <rect x="558" y="52" width="222" height="168" rx="8"/>
     </clipPath>
     <pattern id="scanlines" width="8" height="3" patternUnits="userSpaceOnUse">
       <rect width="8" height="1.2" fill="#60a5fa" opacity="0.08"/>
     </pattern>
   </defs>
 
-  <rect width="800" height="440" fill="#03070f"/>
-  <rect x="10" y="10" width="780" height="420" rx="10" fill="url(#bg)" stroke="#1e3a8a" stroke-width="1.2"/>
+  <rect width="800" height="470" fill="#03070f"/>
+  <rect x="10" y="10" width="780" height="450" rx="10" fill="url(#bg)" stroke="#1e3a8a" stroke-width="1.2"/>
 
   <circle cx="32" cy="30" r="4.5" fill="#f87171"/>
   <circle cx="48" cy="30" r="4.5" fill="#fbbf24"/>
   <circle cx="64" cy="30" r="4.5" fill="#4ade80"/>
   <text x="758" y="34" font-family="monospace" font-size="11" fill="#3b82f6" text-anchor="end">faaeq@dev ~ %</text>
 
-  <!-- top-left info panel -->
+  <!-- top-left info panel: y 52 to 220 -->
   <rect x="20" y="52" width="520" height="168" rx="8" fill="none" stroke="#1e3a8a" stroke-opacity="0.6" stroke-width="1"/>
 
   <line x1="20" y1="86" x2="540" y2="86" stroke="#1e3a8a" stroke-opacity="0.4"/>
@@ -54,18 +54,18 @@
   <text x="106" y="209" font-family="monospace" font-size="11" fill="#93c5fd">|</text>
   <text x="126" y="209" font-family="monospace" font-size="12.5" fill="#4ade80">available for opportunities</text>
 
-  <!-- right photo panel -->
-  <rect x="558" y="60" width="222" height="200" rx="8" fill="#060b14" stroke="#1e3a8a" stroke-opacity="0.6" stroke-width="1"/>
+  <!-- right photo panel: y 52 to 220, same as left panel -->
+  <rect x="558" y="52" width="222" height="168" rx="8" fill="#060b14" stroke="#1e3a8a" stroke-opacity="0.6" stroke-width="1"/>
 
   <g clip-path="url(#photoClip)">
-    <image href="https://avatars.githubusercontent.com/u/187956147?v=4" x="558" y="60" width="222" height="200" preserveAspectRatio="xMidYMid slice"/>
-    <rect x="558" y="60" width="222" height="200" fill="url(#scanlines)"/>
-    <rect x="558" y="-40" width="222" height="36" fill="url(#scanGrad)">
-      <animate attributeName="y" values="60;220;60" dur="2.6s" repeatCount="indefinite"/>
+    <image href="https://avatars.githubusercontent.com/u/187956147?v=4&amp;s=440" x="558" y="52" width="222" height="168" preserveAspectRatio="xMidYMid slice"/>
+    <rect x="558" y="52" width="222" height="168" fill="url(#scanlines)"/>
+    <rect x="558" y="16" width="222" height="36" fill="url(#scanGrad)">
+      <animate attributeName="y" values="16;184;16" dur="2.6s" repeatCount="indefinite"/>
     </rect>
   </g>
 
-  <!-- bottom panel: tech stack + achievements -->
+  <!-- bottom panel: tech stack + achievements, y 236 to 412 -->
   <rect x="20" y="236" width="760" height="176" rx="8" fill="none" stroke="#1e3a8a" stroke-opacity="0.6" stroke-width="1"/>
 
   <text x="34" y="260" font-family="monospace" font-size="12.5" fill="#60a5fa">$ cat tech_stack.json</text>
@@ -122,7 +122,8 @@
   <text x="426" y="376" font-family="monospace" font-size="11.5" fill="#dbeafe">SDGP-Connect Auth Contributor</text>
   <text x="426" y="390" font-family="monospace" font-size="10" fill="#5f7aa8">Asgardeo login · IIT-SDGP · 2026</text>
 
-  <line x1="20" y1="420" x2="780" y2="420" stroke="#1e3a8a" stroke-opacity="0.35"/>
-  <text x="20" y="410" font-family="monospace" font-size="11" fill="#5f7aa8">scanning github.com/mdfaaeq...</text>
-  <text x="766" y="410" font-family="monospace" font-size="11" fill="#4ade80" text-anchor="end">● live</text>
+  <!-- footer: clear of the bottom panel border at y 412 -->
+  <text x="20" y="434" font-family="monospace" font-size="11" fill="#5f7aa8">scanning github.com/mdfaaeq...</text>
+  <text x="766" y="434" font-family="monospace" font-size="11" fill="#4ade80" text-anchor="end">● live</text>
+  <line x1="20" y1="444" x2="780" y2="444" stroke="#1e3a8a" stroke-opacity="0.35"/>
 </svg>
